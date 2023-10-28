@@ -1,2 +1,22 @@
 # Health_Insurance_Cost_Prediction_End_to_End
 End to End from data cleaning to deployment of Health Insurance Cost Prediction
+
+### Dataset
+- **Age**: age of primary beneficiary
+- **Sex**: insurance contractor gender, female, male
+- **bmi**: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body **weight (kg / m ^ 2)** using the ratio of height to weight, ideally 18.5 to 24.9
+- **Children**: Number of children covered by health insurance / Number of dependents
+- **Smoker**: Smoking
+- **Region**: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+- **Charges**: Individual medical costs billed by health insurance
+
+### Methodology
+- Data cleaning and Data Exploration on the features
+- 
+
+### Techologies
+
+
+
+| Files | Description |
+| ----- | ----------- |
