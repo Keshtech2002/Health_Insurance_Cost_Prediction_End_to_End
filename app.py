@@ -23,7 +23,10 @@ def main():
     else:
         p2 = 0
         
-    p3 = st.number_input("Enter Your BMI Value")
+    height = st.number_input("Enter Your HEIGHT")
+    weight = st.number_input("Enter Your WEIGHT")
+    if height and weight:
+        p3 = weight/(height**2)
     
     p4 = st.slider("Enter Number of Children", 0, 4)
     
