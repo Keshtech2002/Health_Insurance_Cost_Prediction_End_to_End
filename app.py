@@ -36,7 +36,7 @@ def main():
     else:
         p5 = 0
         
-    p6 = st.slider("Enter Your Region", 1, 4)
+    p6 = st.slider("Enter Your Region: northwest:3, northeast:4, southeast:2, southwest:1", 1, 4)
     
     if st.button("Predict"):
         pred = model.predict([[p1, p2, p3, p4, p5, p6]])
