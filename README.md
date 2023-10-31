@@ -25,4 +25,4 @@ End to End from data cleaning to deployment of Health Insurance Cost Prediction
 | [app.py](https://github.com/Keshtech2002/Health_Insurance_Cost_Prediction_End_to_End/blob/main/app.py) | Streamlit app |
 | [model_joblib_gr](https://github.com/Keshtech2002/Health_Insurance_Cost_Prediction_End_to_End/blob/main/model_joblib_gr) | Saved model from notebook |
 | [insurance (1).csv](https://github.com/Keshtech2002/Health_Insurance_Cost_Prediction_End_to_End/blob/main/insurance%20(1).csv) | Dataset for health isnsurance |
-| [requirements.txt]() |
+| [requirements.txt](https://github.com/Keshtech2002/Health_Insurance_Cost_Prediction_End_to_End/blob/main/requirements.txt) | Streamlit requirements |
