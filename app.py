@@ -23,8 +23,8 @@ def main():
     else:
         p2 = 0
         
-    height = st.number_input("Enter Your HEIGHT")
-    weight = st.number_input("Enter Your WEIGHT")
+    height = st.number_input("Enter Your HEIGHT in metres")
+    weight = st.number_input("Enter Your WEIGHT in kg")
     if height and weight:
         p3 = weight/(height**2)
     
