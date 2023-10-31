@@ -27,7 +27,7 @@ def main():
     
     p4 = st.slider("Enter Number of Children", 0, 4)
     
-    s2 = st.selectbox('Sex', ('Yes', 'No'))
+    s2 = st.selectbox('Smoker', ('Yes', 'No'))
     if s2 == "Yes":
         p5 = 1
     else:
